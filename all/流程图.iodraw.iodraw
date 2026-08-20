@@ -76,6 +76,15 @@
         <mxCell id="cT5NxuG6N3TipGwCuC12-14" value="是否拆解" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=黑体;fontSize=18;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="cT5NxuG6N3TipGwCuC12-49">
           <mxGeometry x="45" y="410" width="120" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="cT5NxuG6N3TipGwCuC12-8" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="cT5NxuG6N3TipGwCuC12-49" source="cT5NxuG6N3TipGwCuC12-10" target="cT5NxuG6N3TipGwCuC12-14">
+          <mxGeometry x="0.3333" y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="80" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="105" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -101,16 +110,6 @@
             <mxPoint x="580" y="250" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cT5NxuG6N3TipGwCuC12-8" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cT5NxuG6N3TipGwCuC12-10">
-          <mxGeometry x="0.3333" y="20" relative="1" as="geometry">
-            <mxPoint as="offset" />
-            <mxPoint x="580" y="430" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="605" y="440" />
-              <mxPoint x="581" y="440" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="cT5NxuG6N3TipGwCuC12-9" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cT5NxuG6N3TipGwCuC12-10" target="cT5NxuG6N3TipGwCuC12-12">
           <mxGeometry y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
@@ -119,12 +118,13 @@
         <mxCell id="cT5NxuG6N3TipGwCuC12-12" value="进入市场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;glass=0;strokeWidth=1;shadow=0;fontFamily=黑体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="680" y="310" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cT5NxuG6N3TipGwCuC12-16" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="WIyWlLk6GJQsqaUBKTNV-6">
+        <mxCell id="cT5NxuG6N3TipGwCuC12-16" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cT5NxuG6N3TipGwCuC12-14" target="WIyWlLk6GJQsqaUBKTNV-6">
           <mxGeometry x="-0.9696" y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="580" y="510" as="sourcePoint" />
             <mxPoint x="270" y="240" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="580" y="540" />
               <mxPoint x="580" y="530" />
               <mxPoint x="510" y="530" />
               <mxPoint x="510" y="240" />
