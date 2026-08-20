@@ -7,7 +7,7 @@
         <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="80" width="710" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="ST6-NukOqN7-zBqwxO_G-2" value="零配件1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="ST6-NukOqN7-zBqwxO_G-2" value="零配件1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="314" y="50" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
