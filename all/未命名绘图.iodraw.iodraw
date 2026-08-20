@@ -10,6 +10,12 @@
         <mxCell id="ST6-NukOqN7-zBqwxO_G-2" value="零配件1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="314" y="50" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ST6-NukOqN7-zBqwxO_G-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ST6-NukOqN7-zBqwxO_G-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="380" as="sourcePoint" />
+            <mxPoint x="440" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
