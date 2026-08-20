@@ -107,7 +107,7 @@
           <mxGeometry x="680" y="310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cT5NxuG6N3TipGwCuC12-14" value="是否拆解" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="430" width="100" height="80" as="geometry" />
+          <mxGeometry x="510" y="430" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="cT5NxuG6N3TipGwCuC12-16" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="WIyWlLk6GJQsqaUBKTNV-6">
           <mxGeometry x="-0.9696" y="20" relative="1" as="geometry">
