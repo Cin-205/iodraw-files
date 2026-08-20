@@ -75,7 +75,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cT5NxuG6N3TipGwCuC12-49" value="成品流程" style="swimlane;whiteSpace=wrap;html=1;strokeWidth=3;swimlaneFillColor=#FFE599;swimlaneLine=1;rounded=1;fillColor=#FFD966;opacity=50;startSize=40;fontSize=19;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="cT5NxuG6N3TipGwCuC12-49" value="成品流程" style="swimlane;whiteSpace=wrap;html=1;strokeWidth=3;swimlaneFillColor=#FFE599;swimlaneLine=1;rounded=1;fillColor=#78A65F;opacity=50;startSize=40;fontSize=19;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" width="730" height="580" as="geometry">
             <mxRectangle x="480" y="20" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -83,7 +83,7 @@
         <mxCell id="cT5NxuG6N3TipGwCuC12-10" value="是否合格" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=黑体;fontSize=18;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#7E8CAD;fontColor=#FFFFFF;" vertex="1" parent="cT5NxuG6N3TipGwCuC12-49">
           <mxGeometry x="45" y="280" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="cT5NxuG6N3TipGwCuC12-2" value="成品" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;glass=0;strokeWidth=1;shadow=0;fontFamily=黑体;" vertex="1" parent="cT5NxuG6N3TipGwCuC12-49">
+        <mxCell id="cT5NxuG6N3TipGwCuC12-2" value="成品" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;glass=0;strokeWidth=1;shadow=0;fontFamily=黑体;fillColor=#DBAFAF;" vertex="1" parent="cT5NxuG6N3TipGwCuC12-49">
           <mxGeometry x="30" y="60" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cT5NxuG6N3TipGwCuC12-5" value="是否检测" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=黑体;fontSize=18;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#A5C2CD;strokeColor=#000000;" vertex="1" parent="cT5NxuG6N3TipGwCuC12-49">
