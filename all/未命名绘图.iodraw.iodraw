@@ -197,13 +197,6 @@
             <mxPoint x="910" y="125" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cT5NxuG6N3TipGwCuC12-38" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1" y="-100" relative="1" as="geometry">
-            <mxPoint x="-100" y="-100" as="offset" />
-            <mxPoint x="1020" y="150" as="sourcePoint" />
-            <mxPoint x="1070" y="150" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
