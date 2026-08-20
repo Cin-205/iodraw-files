@@ -56,7 +56,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="是否合格" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#9AC7BF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="290" width="100" height="80" as="geometry" />
+          <mxGeometry x="150" y="290" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="重复检测" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="430" width="150" height="60" as="geometry" />
@@ -78,7 +78,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cT5NxuG6N3TipGwCuC12-5" value="是否检测" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="170" width="130" height="110" as="geometry" />
+          <mxGeometry x="510" y="170" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cT5NxuG6N3TipGwCuC12-6" value="进入市场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="680" y="190" width="120" height="40" as="geometry" />
@@ -101,7 +101,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cT5NxuG6N3TipGwCuC12-10" value="是否合格" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#9AC7BF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="290" width="100" height="80" as="geometry" />
+          <mxGeometry x="510" y="290" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cT5NxuG6N3TipGwCuC12-12" value="进入市场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="680" y="310" width="120" height="40" as="geometry" />
