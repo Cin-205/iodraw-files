@@ -85,6 +85,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="cT5NxuG6N3TipGwCuC12-7" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="cT5NxuG6N3TipGwCuC12-49" target="cT5NxuG6N3TipGwCuC12-10" source="cT5NxuG6N3TipGwCuC12-5">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="80" y="220" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -104,12 +110,6 @@
         <mxCell id="cT5NxuG6N3TipGwCuC12-6" value="进入市场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;glass=0;strokeWidth=1;shadow=0;fontFamily=黑体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="680" y="190" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cT5NxuG6N3TipGwCuC12-7" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="cT5NxuG6N3TipGwCuC12-10">
-          <mxGeometry y="20" relative="1" as="geometry">
-            <mxPoint as="offset" />
-            <mxPoint x="580" y="250" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="cT5NxuG6N3TipGwCuC12-9" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cT5NxuG6N3TipGwCuC12-10" target="cT5NxuG6N3TipGwCuC12-12">
           <mxGeometry y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
@@ -118,16 +118,16 @@
         <mxCell id="cT5NxuG6N3TipGwCuC12-12" value="进入市场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;glass=0;strokeWidth=1;shadow=0;fontFamily=黑体;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="680" y="310" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cT5NxuG6N3TipGwCuC12-16" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cT5NxuG6N3TipGwCuC12-14" target="WIyWlLk6GJQsqaUBKTNV-6">
+        <mxCell id="cT5NxuG6N3TipGwCuC12-16" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cT5NxuG6N3TipGwCuC12-14">
           <mxGeometry x="-0.9696" y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="580" y="510" as="sourcePoint" />
-            <mxPoint x="270" y="240" as="targetPoint" />
+            <mxPoint x="270" y="250" as="targetPoint" />
             <Array as="points">
               <mxPoint x="605" y="560" />
               <mxPoint x="510" y="560" />
               <mxPoint x="510" y="290" />
-              <mxPoint x="235" y="290" />
+              <mxPoint x="270" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
