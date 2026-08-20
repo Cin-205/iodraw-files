@@ -7,6 +7,17 @@
         <mxCell id="cT5NxuG6N3TipGwCuC12-47" value="零配件流程" style="swimlane;whiteSpace=wrap;html=1;strokeWidth=3;rounded=1;swimlaneFillColor=#E1D5E7;opacity=50;fillColor=#C3ABD0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="20" width="390" height="580" as="geometry" />
         </mxCell>
+        <mxCell id="cT5NxuG6N3TipGwCuC12-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="cT5NxuG6N3TipGwCuC12-47" source="WIyWlLk6GJQsqaUBKTNV-11">
+          <mxGeometry x="-0.9138" y="-10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="60" y="430" as="sourcePoint" />
+            <mxPoint x="120" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="30" y="430" />
+              <mxPoint x="30" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cT5NxuG6N3TipGwCuC12-49" value="成品流程" style="swimlane;whiteSpace=wrap;html=1;strokeWidth=3;swimlaneFillColor=#FFE599;swimlaneLine=1;rounded=1;fillColor=#FFD966;opacity=50;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="20" width="660" height="580" as="geometry">
             <mxRectangle x="480" y="20" width="140" height="30" as="alternateBounds" />
@@ -185,17 +196,6 @@
               <mxPoint x="740" y="580" />
               <mxPoint x="100" y="580" />
               <mxPoint x="100" y="100" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cT5NxuG6N3TipGwCuC12-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-0.9138" y="-10" relative="1" as="geometry">
-            <mxPoint as="offset" />
-            <mxPoint x="160" y="450" as="sourcePoint" />
-            <mxPoint x="220" y="270" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="130" y="450" />
-              <mxPoint x="130" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
