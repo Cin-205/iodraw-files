@@ -7,7 +7,7 @@
         <mxCell id="cT5NxuG6N3TipGwCuC12-47" value="零配件流程" style="swimlane;whiteSpace=wrap;html=1;strokeWidth=3;rounded=1;swimlaneFillColor=#E1D5E7;opacity=50;fillColor=#C3ABD0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="20" width="390" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="cT5NxuG6N3TipGwCuC12-49" value="成品流程" style="swimlane;whiteSpace=wrap;html=1;strokeWidth=3;swimlaneFillColor=none;swimlaneLine=1;rounded=1;fillColor=#FFD966;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="cT5NxuG6N3TipGwCuC12-49" value="成品流程" style="swimlane;whiteSpace=wrap;html=1;strokeWidth=3;swimlaneFillColor=none;swimlaneLine=1;rounded=1;fillColor=#FFD966;opacity=50;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="20" width="660" height="580" as="geometry">
             <mxRectangle x="480" y="20" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
