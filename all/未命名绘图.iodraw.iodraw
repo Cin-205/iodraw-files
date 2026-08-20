@@ -109,6 +109,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="cT5NxuG6N3TipGwCuC12-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cT5NxuG6N3TipGwCuC12-14" target="cT5NxuG6N3TipGwCuC12-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cT5NxuG6N3TipGwCuC12-14" value="是否拆解" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="430" width="100" height="80" as="geometry" />
         </mxCell>
@@ -118,6 +121,9 @@
             <mxPoint x="640" y="520" as="sourcePoint" />
             <mxPoint x="640" y="580" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="cT5NxuG6N3TipGwCuC12-17" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="760" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
