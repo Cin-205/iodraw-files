@@ -24,11 +24,12 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="是否合格" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=黑体;fontSize=18;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#9AC7BF;" parent="cT5NxuG6N3TipGwCuC12-47" vertex="1">
           <mxGeometry x="85" y="280" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="cT5NxuG6N3TipGwCuC12-47" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="cT5NxuG6N3TipGwCuC12-47" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
           <mxGeometry x="0.2" y="15" relative="1" as="geometry">
             <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="110" y="270" />
+              <mxPoint x="180" y="250" />
+              <mxPoint x="180" y="270" />
               <mxPoint x="145" y="270" />
             </Array>
           </mxGeometry>
