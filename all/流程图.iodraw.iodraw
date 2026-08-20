@@ -126,7 +126,7 @@
         <mxCell id="cT5NxuG6N3TipGwCuC12-29" value="完成订单" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;glass=0;strokeWidth=1;shadow=0;fillColor=#F19C99;fontColor=#ffffff;strokeColor=#3700CC;fontFamily=黑体;" vertex="1" parent="cT5NxuG6N3TipGwCuC12-49">
           <mxGeometry x="560" y="170" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cT5NxuG6N3TipGwCuC12-26" value="完成订单" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;glass=0;strokeWidth=1;shadow=0;fillColor=#F19C99;fontColor=#FFFFFF;fontFamily=黑体;" vertex="1" parent="cT5NxuG6N3TipGwCuC12-49">
+        <mxCell id="cT5NxuG6N3TipGwCuC12-26" value="完成订单" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;glass=0;strokeWidth=1;shadow=0;fillColor=#B57573;fontColor=#FFFFFF;fontFamily=黑体;" vertex="1" parent="cT5NxuG6N3TipGwCuC12-49">
           <mxGeometry x="385" y="300" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cT5NxuG6N3TipGwCuC12-12" value="进入市场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;glass=0;strokeWidth=1;shadow=0;fontFamily=黑体;fillColor=#C4C9C2;" vertex="1" parent="cT5NxuG6N3TipGwCuC12-49">
