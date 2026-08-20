@@ -41,7 +41,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="进入装配" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;glass=0;strokeWidth=1;shadow=0;fontFamily=黑体;" parent="cT5NxuG6N3TipGwCuC12-47" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="进入装配" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;glass=0;strokeWidth=1;shadow=0;fontFamily=黑体;fillColor=#C4C9C2;" parent="cT5NxuG6N3TipGwCuC12-47" vertex="1">
           <mxGeometry x="249" y="300" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-9" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="cT5NxuG6N3TipGwCuC12-47" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
@@ -151,7 +151,7 @@
             <mxPoint x="430" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cT5NxuG6N3TipGwCuC12-23" value="丢弃" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;glass=0;strokeWidth=1;shadow=0;fontFamily=黑体;" vertex="1" parent="cT5NxuG6N3TipGwCuC12-49">
+        <mxCell id="cT5NxuG6N3TipGwCuC12-23" value="丢弃" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;glass=0;strokeWidth=1;shadow=0;fontFamily=黑体;fillColor=#C4C9C2;" vertex="1" parent="cT5NxuG6N3TipGwCuC12-49">
           <mxGeometry x="210" y="430" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cT5NxuG6N3TipGwCuC12-41" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="cT5NxuG6N3TipGwCuC12-49" source="cT5NxuG6N3TipGwCuC12-14" target="cT5NxuG6N3TipGwCuC12-23">
