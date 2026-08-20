@@ -109,9 +109,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cT5NxuG6N3TipGwCuC12-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cT5NxuG6N3TipGwCuC12-14" target="cT5NxuG6N3TipGwCuC12-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="cT5NxuG6N3TipGwCuC12-14" value="是否拆解" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="430" width="100" height="80" as="geometry" />
         </mxCell>
@@ -124,13 +121,6 @@
         </mxCell>
         <mxCell id="cT5NxuG6N3TipGwCuC12-17" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="740" y="450" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cT5NxuG6N3TipGwCuC12-20" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
-            <mxPoint x="710" y="440" as="sourcePoint" />
-            <mxPoint x="760" y="440" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
