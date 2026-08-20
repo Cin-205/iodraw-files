@@ -120,7 +120,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cT5NxuG6N3TipGwCuC12-27" value="是否合格" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=黑体;fontSize=18;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#7E8CAD;" vertex="1" parent="cT5NxuG6N3TipGwCuC12-49">
+        <mxCell id="cT5NxuG6N3TipGwCuC12-27" value="是否合格" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=黑体;fontSize=18;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#7E8CAD;fontColor=#FFFFFF;" vertex="1" parent="cT5NxuG6N3TipGwCuC12-49">
           <mxGeometry x="400" y="150" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cT5NxuG6N3TipGwCuC12-29" value="完成订单" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;glass=0;strokeWidth=1;shadow=0;fillColor=#F19C99;fontColor=#ffffff;strokeColor=#3700CC;fontFamily=黑体;" vertex="1" parent="cT5NxuG6N3TipGwCuC12-49">
