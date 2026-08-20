@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="cT5NxuG6N3TipGwCuC12-47" value="零配件流程" style="swimlane;whiteSpace=wrap;html=1;strokeWidth=3;rounded=1;swimlaneFillColor=#E1D5E7;opacity=50;fillColor=#C3ABD0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="20" width="390" height="580" as="geometry" />
+          <mxGeometry x="90" y="30" width="390" height="580" as="geometry" />
         </mxCell>
         <mxCell id="cT5NxuG6N3TipGwCuC12-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="cT5NxuG6N3TipGwCuC12-47" source="WIyWlLk6GJQsqaUBKTNV-11">
           <mxGeometry x="-0.9138" y="-10" relative="1" as="geometry">
@@ -21,6 +21,14 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="是否检测" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=黑体;fontSize=18;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="cT5NxuG6N3TipGwCuC12-47" vertex="1">
           <mxGeometry x="85" y="150" width="120" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="是否合格" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=黑体;fontSize=18;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#9AC7BF;" parent="cT5NxuG6N3TipGwCuC12-47" vertex="1">
+          <mxGeometry x="85" y="290" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="cT5NxuG6N3TipGwCuC12-47" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cT5NxuG6N3TipGwCuC12-49" value="成品流程" style="swimlane;whiteSpace=wrap;html=1;strokeWidth=3;swimlaneFillColor=#FFE599;swimlaneLine=1;rounded=1;fillColor=#FFD966;opacity=50;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="20" width="660" height="580" as="geometry">
             <mxRectangle x="480" y="20" width="140" height="30" as="alternateBounds" />
@@ -31,11 +39,6 @@
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="购入新零配件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;glass=0;strokeWidth=1;shadow=0;fontFamily=黑体;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="80" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
-          <mxGeometry y="20" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-7" edge="1">
           <mxGeometry y="10" relative="1" as="geometry">
@@ -54,9 +57,6 @@
           <mxGeometry y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="是否合格" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=黑体;fontSize=18;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#9AC7BF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="150" y="290" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="重复检测" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;glass=0;strokeWidth=1;shadow=0;fontFamily=黑体;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="430" width="150" height="60" as="geometry" />
