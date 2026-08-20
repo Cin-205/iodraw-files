@@ -178,12 +178,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cT5NxuG6N3TipGwCuC12-34" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="530" y="370" as="sourcePoint" />
-            <mxPoint x="580" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="cT5NxuG6N3TipGwCuC12-36" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-12" target="WIyWlLk6GJQsqaUBKTNV-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="370" as="sourcePoint" />
@@ -198,7 +192,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cT5NxuG6N3TipGwCuC12-40" value="进入市场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1060" y="110" width="120" height="40" as="geometry" />
+          <mxGeometry x="860" y="80" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
