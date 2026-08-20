@@ -176,7 +176,7 @@
           <mxGeometry x="0.3333" y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="940" y="560" as="sourcePoint" />
-            <mxPoint x="940" y="620" as="targetPoint" />
+            <mxPoint x="680" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
